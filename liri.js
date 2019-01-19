@@ -53,7 +53,7 @@ function concertThis(arg) {
 function spotifyThis(arg) {
   var song = arg;
   if (!song) {
-    song = "The+Sign";
+    song = "Never+going+to+give+you+up";
     console.log(song);
   }
   spotify.search({
@@ -76,7 +76,7 @@ function spotifyThis(arg) {
 function movieThis(arg) {
   var movieName = arg;
   if (!movieName) {
-    movieName = "Mr.+Nobody"
+    movieName = "The+Bee+Movie"
   };
   var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
   request(queryUrl, function(error, response, body) {
