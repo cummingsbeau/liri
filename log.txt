@@ -196,3 +196,13 @@ Time: 7:30 pm
 Time: 7:30 pm
 Date: 10/23/2019
 -----------------------------------
+Venue: Van Wezel Performing Arts Hall
+Location: Sarasota, FL, United States
+Date: 02/16/2019
+Time: 8:30 pm
+-----------------------------------
+Venue: Cidade do Rock
+Location: Rio De Janeiro, , Brazil
+Date: 09/27/2019
+-----------------------------------
+Time: 7:00 pm

@@ -1,4 +1,5 @@
 # Liri
+Video Tutorial: https://drive.google.com/file/d/15gWWmmPtMlrDzQnzltuuAT_65RN6wmFc/view?usp=sharing
 # Spotify
 `node liri.js spotify-this-song <insert song title>`
 This will show the following information:
@@ -25,13 +26,22 @@ This will output the following information:
 - Rotten Tomatoes Rating.
 - Rotten Tomatoes URL.
 
-If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
+If the user doesn't type a movie in, the program will output data for the movie 'The Bee Movie'
+
+# Bands In Town
+`node liri.js concert-this`
+
+This will output the following information:
+-Date of the most recent concert.
+-Venue name.
+-Local time of concert.
+-Location of concert.
 
 # Do What It Says
 `node liri.js do-what-it-says`
 
-Using the `fs` Node package, LIRI will take the text inside of log.txt and then use it to call one of LIRI's commands.
+Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
-Right now it will run `spotify-this-song` for "never going to give you up,".
+
 
 
