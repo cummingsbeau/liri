@@ -1,44 +1,198 @@
 Artist(s) Name: Seal
 Track Name: Kiss From A Rose
+Preview URL: https://p.scdn.co/mp3-preview/829c43d9ebc35befea511e6009adf5a115eba387?cid=c307f9f30260414ca57bd0e3d7012969
+-----------------------------------
+Album: Seal [1994]
+Artist(s) Name: Seal
+Track Name: Kiss From A Rose
 -----------------------------------
 Preview URL: https://p.scdn.co/mp3-preview/829c43d9ebc35befea511e6009adf5a115eba387?cid=c307f9f30260414ca57bd0e3d7012969
 Album: Seal [1994]
+Venue: Van Wezel Performing Arts Hall
+Location: Sarasota, FL, United States
+-----------------------------------
+Date: 02/16/2019
+Venue: Cidade do Rock
+Time: 8:30 pm
+Location: Rio De Janeiro, , Brazil
+Date: 09/27/2019
+Time: 7:00 pm
+-----------------------------------
 Title: The Matrix
-Year: 1999
 Rotten Tomatoes Score: 73/100
+Year: 1999
+Language: English
 Country: USA
 IMDB Rating: 8.7
+-----------------------------------
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
 Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Title: The Matrix
+IMDB Rating: 8.7
+Rotten Tomatoes Score: 73/100
+Country: USA
 Language: English
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
 Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
 -----------------------------------
+Year: 1999
 Venue: Van Wezel Performing Arts Hall
 Location: Sarasota, FL, United States
------------------------------------
 Date: 02/16/2019
 Venue: Cidade do Rock
 Location: Rio De Janeiro, , Brazil
 Time: 8:30 pm
-Date: 09/27/2019
------------------------------------
 Time: 7:00 pm
+-----------------------------------
+-----------------------------------
+Date: 09/27/2019
 Artist(s) Name: Seal
 Track Name: Kiss From A Rose
 Preview URL: https://p.scdn.co/mp3-preview/829c43d9ebc35befea511e6009adf5a115eba387?cid=c307f9f30260414ca57bd0e3d7012969
+-----------------------------------
 Album: Seal [1994]
+Location: Grand Rapids, MI, United States
+Venue: Van Andel Arena
+Date: 05/07/2019
 -----------------------------------
-Artist(s) Name: Seal
-Track Name: Kiss From A Rose
-Album: Seal [1994]
-Preview URL: https://p.scdn.co/mp3-preview/829c43d9ebc35befea511e6009adf5a115eba387?cid=c307f9f30260414ca57bd0e3d7012969
+Time: 7:30 pm
+Date: 05/09/2019
+Venue: KeyBank Center
 -----------------------------------
-Venue: Van Wezel Performing Arts Hall
-Location: Sarasota, FL, United States
+Location: Buffalo, NY, United States
+Location: Bristow, VA, United States
+Date: 05/11/2019
+Venue: Jiffy Lube Live
 -----------------------------------
-Time: 8:30 pm
-Date: 02/16/2019
-Location: Rio De Janeiro, , Brazil
-Venue: Cidade do Rock
+Time: 7:30 pm
+Venue: Madison Square Garden
+Location: New York, NY, United States
+Time: 7:30 pm
+Date: 05/13/2019
+-----------------------------------
+Location: Nashville, TN, United States
+Time: 7:30 pm
+Date: 05/16/2019
+-----------------------------------
+Venue: Ruoff Home Mortgage Music Center
+Location: Noblesville, IN, United States
+Venue: Bridgestone Arena
+Time: 7:30 pm
+Date: 05/18/2019
+-----------------------------------
+Location: Tinley Park, IL, United States
+Date: 05/21/2019
+Venue: Hollywood Casino Amphitheatre
+-----------------------------------
+Venue: Hollywood Casino Amphitheatre
+Location: Maryland Heights, MO, United States
+Date: 05/23/2019
+Time: 7:30 pm
+Venue: Citizens Bank Park
+-----------------------------------
+Location: Philadelphia, PA, United States
+Time: 7:30 pm
+Date: 05/25/2019
+-----------------------------------
+Venue: Little Caesars Arena
+Location: Detroit, MI, United States
+Date: 05/28/2019
+Time: 7:30 pm
+-----------------------------------
+Venue: PPG Paints Arena
+Location: Pittsburgh, PA, United States
+Time: 8:00 pm
+Date: 05/30/2019
+-----------------------------------
+Venue: Scotiabank Arena
+Location: Toronto, , Canada
+Time: 7:30 pm
+Date: 06/01/2019
+-----------------------------------
+Venue: Xcel Energy Center
+Location: St Paul, MN, United States
+Date: 09/06/2019
+Time: 7:30 pm
+-----------------------------------
+Venue: Alpine Valley Music Theatre
+Location: Elkhorn, WI, United States
+Time: 8:00 pm
+Date: 09/08/2019
+Time: 7:30 pm
+Time: 7:30 pm
+-----------------------------------
+Venue: Blossom Music Center
+Location: Cuyahoga Falls, OH, United States
+Date: 09/10/2019
+-----------------------------------
+Venue: Fenway Park
+Time: 7:30 pm
+Location: Boston, MA, United States
+Time: 6:30 pm
+-----------------------------------
+Venue: Northwell Health at Jones Beach Theater
+Location: Wantagh, NY, United States
+Time: 7:30 pm
+Date: 09/15/2019
+-----------------------------------
+Location: Atlanta, GA, United States
+Date: 09/18/2019
+Venue: State Farm Arena
+-----------------------------------
+Date: 09/13/2019
+Venue: BB&T Center
+Location: Sunrise, FL, United States
+Time: 7:30 pm
+Date: 09/20/2019
+-----------------------------------
+Venue: Amalie Arena
+Location: Tampa, FL, United States
+Time: 7:30 pm
+Date: 09/22/2019
+-----------------------------------
+Venue: Toyota Center
+Location: Houston, TX, United States
+Time: 7:30 pm
+Date: 09/25/2019
+-----------------------------------
+Location: Dallas, TX, United States
 Date: 09/27/2019
+Venue: American Airlines Center
+Time: 7:30 pm
 -----------------------------------
-Time: 7:00 pm
+Location: Denver, CO, United States
+Time: 7:30 pm
+Venue: Pepsi Center
+Date: 09/29/2019
+-----------------------------------
+Location: Los Angeles, CA, United States
+Time: 7:30 pm
+Date: 10/11/2019
+Time: 7:30 pm
+-----------------------------------
+Location: Los Angeles, CA, United States
+Venue: Hollywood Bowl
+Date: 10/13/2019
+Venue: Hollywood Bowl
+-----------------------------------
+Location: San Diego, CA, United States
+Venue: Viejas Arena
+Time: 7:30 pm
+Time: 7:30 pm
+-----------------------------------
+Date: 10/16/2019
+Location: Seattle, WA, United States
+Time: 7:30 pm
+Venue: T-Mobile Park
+-----------------------------------
+Location: Vancouver, , Canada
+Venue: Rogers Arena
+Date: 10/21/2019
+Date: 10/19/2019
+-----------------------------------
+Location: Edmonton, , Canada
+Venue: Rogers Place
+Time: 7:30 pm
+Time: 7:30 pm
+Date: 10/23/2019
+-----------------------------------

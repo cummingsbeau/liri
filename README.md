@@ -1,23 +1,6 @@
 # Liri
-`node liri.js my-tweets <insert Twitter handle>`
-
-This will show this username's last 20 tweets and when they were created at in your terminal/bash window.
-
-# Bands In Town
-`node liri.js spotify-this-song <insert band here>`
-
-This will show the following information:
-
-- Venue Name
-- Location
-- Date
-- Time
-
-If no band is provided then your program will default to "Seal" 
-
 # Spotify
 `node liri.js spotify-this-song <insert song title>`
-
 This will show the following information:
 
 - Artist(s)
@@ -25,7 +8,7 @@ This will show the following information:
 - A preview link of the song from Spotify
 - The album that the song is from
 
-If no song is provided then your program will default to "Never going to give you up" by Rick Astley 
+If no song is provided then your program will default to "Never going to give you up" by Rick Astley
 
 # Movies
 `node liri.js movie-this <insert movie title>`
@@ -42,13 +25,13 @@ This will output the following information:
 - Rotten Tomatoes Rating.
 - Rotten Tomatoes URL.
 
-If the user doesn't type a movie in, the program will output data for the movie 'The Bee Movie'
+If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
 
 # Do What It Says
 `node liri.js do-what-it-says`
 
 Using the `fs` Node package, LIRI will take the text inside of log.txt and then use it to call one of LIRI's commands.
 
-Right now it will run `spotify-this-song` for "Never going to give you up,".
+Right now it will run `spotify-this-song` for "never going to give you up,".
 
 
